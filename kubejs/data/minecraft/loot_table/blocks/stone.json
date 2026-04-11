@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "ascent:stone_chunk",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "items": [
+                      "ascent:flint_pickaxe",
+                      "minecraft:wooden_pickaxe"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:cobblestone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ascent:stone_chunk"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.35
+        },
+        {
+          "condition": "minecraft:match_tool",
+          "predicate": {
+            "items": [
+              "ascent:flint_pickaxe",
+              "minecraft:wooden_pickaxe"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "neoforge-21.1.224",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Ascent Expert Mode",
+  "version": "",
+  "author": "",
+  "files": [
+    {
+      "projectID": 268560,
+      "fileID": 7904058,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 228756,
+      "fileID": 5491156,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 272335,
+      "fileID": 7180790,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 328085,
+      "fileID": 7408951,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 416294,
+      "fileID": 7104526,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 284497,
+      "fileID": 7105279,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 223794,
+      "fileID": 7027323,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 570630,
+      "fileID": 7408387,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 287342,
+      "fileID": 6443608,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 272515,
+      "fileID": 5850587,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 324717,
+      "fileID": 7545219,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 238222,
+      "fileID": 7391682,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 583345,
+      "fileID": 6315149,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 238086,
+      "fileID": 7278501,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 551894,
+      "fileID": 7404415,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1173950,
+      "fileID": 7127444,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 231951,
+      "fileID": 6733669,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 556861,
+      "fileID": 6930104,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 335673,
+      "fileID": 7539725,
+      "required": true,
+      "isLocked": false
+    }
+  ],
+  "overrides": "overrides"
+}

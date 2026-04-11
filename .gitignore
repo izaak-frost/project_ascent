@@ -1,0 +1,35 @@
+# Minecraft junk
+logs/
+crash-reports/
+saves/
+screenshots/
+shaderpacks/
+resourcepacks/
+
+# Mods
+mods/
+
+# Configs
+config/
+
+# KubeJS (KEEP THIS)
+!kubejs/
+
+# Instance launchers
+instance.cfg
+mmc-pack.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Java cache
+*.log
+.curseclient
+command_history.txt
+usercache.json
+usernamecache.json
+
+# Personal / launcher files
+minecraftinstance.json
+options.txt
