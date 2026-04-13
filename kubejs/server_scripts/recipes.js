@@ -18,15 +18,32 @@ ServerEvents.recipes(event => {
     event.shapeless(Item.of(planks, 2), [log])
   })
 
-  // Flint pickaxe
+  // Flint Shards -> Flint
+  event.shapeless(
+    Item.of('minecraft:flint', 1),
+      [
+        '9x ascent:flint_shard'
+      ]
+  )
+
+  // Flint -> Flint Shards
+  event.shapeless(
+    Item.of('ascent:flint_shard', 9),
+      [
+        'minecraft:flint'
+      ]
+  )
+
+  // Flint Shards -> Flint
   event.shaped('ascent:flint_pickaxe', [
-    'FFF',
-    ' S ',
-    ' S '
-  ], {
-    F: 'ascent:flint_shard',
-    S: 'minecraft:stick'
-  })
+      'fFf',
+      ' S ',
+      ' S '
+    ], {
+      F: 'minecraft:flint',
+      f: 'ascent:flint_shard',
+      S: 'minecraft:stick'
+    })
 
   // Stone chunks -> cobblestone
   event.shaped('minecraft:cobblestone', [
@@ -35,4 +52,19 @@ ServerEvents.recipes(event => {
   ], {
     S: 'ascent:stone_chunk'
   })
+
+  // Furnace now made with 1x Compressed Cobblestone
+  event.remove({ output: 'minecraft:furnace' })
+  event.shaped(
+    Item.of('minecraft:furnace',1),
+      [
+        'CCC',
+        'C C',
+        'CCC'
+      ],
+      {
+        C: 'allthecompressed:cobblestone_1x'
+
+      }
+  )
 })
