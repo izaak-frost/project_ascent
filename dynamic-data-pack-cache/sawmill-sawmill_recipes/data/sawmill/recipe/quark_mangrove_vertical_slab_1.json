@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:mangrove_planks"
+  },
+  "result": {
+    "id": "quark:mangrove_vertical_slab",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:spruce_planks"
+  },
+  "result": {
+    "id": "quark:spruce_vertical_slab",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -5,12 +5,12 @@ saves/
 screenshots/
 shaderpacks/
 resourcepacks/
+local/
 
 # Mods
 mods/
-
-# Configs
-config/
+emojiful/
+esm/
 
 # KubeJS (KEEP THIS)
 !kubejs/

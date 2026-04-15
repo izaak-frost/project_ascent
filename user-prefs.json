@@ -3,311 +3,315 @@
     "filesSelection": [
       {
         "path": "config",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\functionalstorage",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\functionalstorage\\functionalstorage-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\functionalstorage\\functionalstorage-common.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\bronze.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\copper.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\creative.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\diamond.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\electrum.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\emerald.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\gold.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\invar.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\iron.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\platinum.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\silver.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\steel.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\stone.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks\\jetpacks\\wood.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jade",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jade\\hide-blocks.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jade\\hide-entities.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jade\\jade.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jade\\plugins.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jade\\sort-order.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\world",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\world\\local",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\world\\local\\ascension_test",
-        "isSelected": false
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local\\ascension_test\\bookmarks.json",
+        "isSelected": true
       },
       {
         "path": "config\\jei\\world\\local\\ascension_test\\lookupHistory.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\blacklist.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\ingredient-list-mod-sort-order.ini",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\ingredient-list-type-sort-order.ini",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\jei-client.ini",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\jei-colors.ini",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\jei-debug.ini",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\jei-mod-id-format.ini",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei\\recipe-category-sort-order.ini",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism\\client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism\\common.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism\\gear.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism\\general.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism\\machine-storage.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism\\machine-usage.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism\\startup.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism\\tiers.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\Mekanism\\world.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\titanium",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\titanium\\titanium-tags.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\titanium\\titanium.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ae2-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ae2-common.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\bcc-common.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\betteradvancements-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\create-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\create-common.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\create-server.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\cucumber-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\cucumber-common.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\cucumber-tags.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\dankstorage-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\dankstorage-server.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\flywheel-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\fml.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\guideme.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\immersiveengineering-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\immersiveengineering-server.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\immersiveengineering-startup.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ironjetpacks-common.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\jei-server.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\neoforge-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\neoforge-common.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\neoforge-server.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "config\\ponder-client.toml",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "crash-reports",
@@ -322,184 +326,200 @@
         "isSelected": false
       },
       {
-        "path": "defaultconfigs",
+        "path": "crash-reports\\crash-2026-04-13_15.11.04-client.txt",
         "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2026-04-13_15.26.30-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "datapacks",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs",
+        "isSelected": true
       },
       {
         "path": "downloads",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "downloads\\log.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\assets",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\assets\\ascent",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\assets\\ascent\\textures",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\assets\\ascent\\textures\\item",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\assets\\ascent\\textures\\item\\flint_pickaxe.png",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\assets\\ascent\\textures\\item\\flint_shard.png",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\assets\\ascent\\textures\\item\\stone_chunk.png",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\client_scripts",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\client_scripts\\client_log_protection.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\client_scripts\\main.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\config",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\config\\client.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\config\\common.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\config\\web_server.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\data",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\data\\minecraft",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\data\\minecraft\\loot_table",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\data\\minecraft\\loot_table\\blocks",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\data\\minecraft\\loot_table\\blocks\\stone.json",
-        "isSelected": false
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data\\recipes",
+        "isSelected": true
       },
       {
         "path": "kubejs\\models",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\models\\item",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\models\\item\\flint_pickaxe.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\models\\item\\flint_shard.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\models\\item\\stone_chunk.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\interactions.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\log_protection.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\loot.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\recipes.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\server_scripts\\tags.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\startup_scripts",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\startup_scripts\\ascent_constants.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\startup_scripts\\primitive_tier.js",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "kubejs\\README.txt",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "local",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "local\\kubejs",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "local\\kubejs\\export",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "local\\kubejs\\exported_packs",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "local\\kubejs\\local_server_scripts",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "local\\kubejs\\local_startup_scripts",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "local\\kubejs\\dev.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "logs",
@@ -574,7 +594,7 @@
         "isSelected": false
       },
       {
-        "path": "logs\\telemetry\\20260411-20.json",
+        "path": "logs\\telemetry\\20260411-20.json.gz",
         "isSelected": false
       },
       {
@@ -606,6 +626,22 @@
         "isSelected": false
       },
       {
+        "path": "logs\\telemetry\\20260412-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20260413-1.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20260413-2.json.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry\\20260413-3.json",
+        "isSelected": false
+      },
+      {
         "path": "logs\\2026-04-11-1.log.gz",
         "isSelected": false
       },
@@ -619,6 +655,22 @@
       },
       {
         "path": "logs\\2026-04-11-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-04-11-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-04-12-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-04-13-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-04-13-2.log.gz",
         "isSelected": false
       },
       {
@@ -638,6 +690,10 @@
         "isSelected": false
       },
       {
+        "path": "logs\\debug-5.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\debug.log",
         "isSelected": false
       },
@@ -654,7 +710,19 @@
         "isSelected": true
       },
       {
+        "path": "mods\\allthecompressed-1.21.1-4.4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appleskin-neoforge-mc1.21-3.0.9.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\appliedenergistics2-19.2.17.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\balm-neoforge-1.21.1-21.0.56.jar",
         "isSelected": true
       },
       {
@@ -666,6 +734,30 @@
         "isSelected": true
       },
       {
+        "path": "mods\\bookshelf-neoforge-1.21.1-21.1.81.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Clumps-neoforge-1.21.1-19.0.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\comforts-neoforge-9.0.5+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Controlling-neoforge-1.21.1-19.0.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\craftingtweaks-neoforge-1.21.1-21.1.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CraftTweaker-neoforge-1.21.1-21.0.38.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\create-1.21.1-6.0.9.jar",
         "isSelected": true
       },
@@ -674,11 +766,27 @@
         "isSelected": true
       },
       {
+        "path": "mods\\curios-neoforge-9.5.1+1.21.1.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\dankstorage-neoforge-1.21.1-20.jar",
         "isSelected": true
       },
       {
+        "path": "mods\\enchdesc-neoforge-1.21.1-21.1.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\functionalstorage-1.21.1-1.5.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\geckolib-neoforge-1.21.1-4.8.4.jar",
         "isSelected": true
       },
       {
@@ -710,6 +818,10 @@
         "isSelected": true
       },
       {
+        "path": "mods\\konkrete_neoforge_1.9.9_MC_1.21.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\kubejs-neoforge-2101.7.2-build.348.jar",
         "isSelected": true
       },
@@ -722,7 +834,55 @@
         "isSelected": true
       },
       {
+        "path": "mods\\melody_neoforge_1.0.10_MC_1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\modernfix-neoforge-5.27.2+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\moonlight-1.21-2.29.32-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\prickle-neoforge-1.21.1-21.1.11.jar",
+        "isSelected": true
+      },
+      {
         "path": "mods\\rhino-2101.2.7-build.81.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Searchables-neoforge-1.21.1-1.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodium-neoforge-0.6.13+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sophisticatedbackpacks-1.21.1-3.25.40.1677.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sophisticatedcore-1.21.1-1.4.24.1680.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\supplementaries-1.21-3.5.34-neoforge.jar",
         "isSelected": true
       },
       {
@@ -730,8 +890,20 @@
         "isSelected": true
       },
       {
+        "path": "mods\\waystones-neoforge-1.21.1-21.1.29.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\xaerominimap-neoforge-1.21.1-25.3.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+        "isSelected": true
+      },
+      {
         "path": "resourcepacks",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "saves",
@@ -947,7 +1119,11 @@
       },
       {
         "path": "schematics",
-        "isSelected": false
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": true
       },
       {
         "path": ".curseclient",
@@ -962,6 +1138,10 @@
         "isSelected": false
       },
       {
+        "path": "manifest.json",
+        "isSelected": false
+      },
+      {
         "path": "minecraftinstance.json",
         "isSelected": false
       },
@@ -971,7 +1151,7 @@
       },
       {
         "path": "README.md",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "usercache.json",
@@ -982,7 +1162,7 @@
         "isSelected": false
       }
     ],
-    "recommendedRam": 4096,
-    "enableRecommendedRam": false
+    "recommendedRam": 8192,
+    "enableRecommendedRam": true
   }
 }
