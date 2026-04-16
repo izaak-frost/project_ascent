@@ -965,6 +965,14 @@
     "curseForgeHash": 1636553601,
     "modrinthHash": "5225cdd0f18cabd290551ca93125dbdceb7a7755"
   },
+  "industrialforegoing-1.21-3.6.38.jar": {
+    "jarName": "industrialforegoing-1.21-3.6.38.jar",
+    "modId": "industrialforegoing",
+    "name": "Industrial Foregoing",
+    "version": "1.21-3.6.38",
+    "curseForgeHash": 1550083294,
+    "modrinthHash": "79019a59c8023f5883d7a6c2f2308c995f828aa3"
+  },
   "inventoryessentials-neoforge-1.21.1-21.1.13.jar": {
     "jarName": "inventoryessentials-neoforge-1.21.1-21.1.13.jar",
     "modId": "inventoryessentials",

@@ -13,6 +13,8 @@ emojiful/
 esm/
 *.xwmc
 *.outdated
+*_c.*
+*_a.*
 
 # KubeJS (KEEP THIS)
 !kubejs/

@@ -18,7 +18,7 @@ LootJS.modifiers(event => {
     // Only when the player is breaking leaves with empty main hand
     .matchPlayerCustom(player => {
       const item = player.getMainHandItem()
-      return item == null || item.isEmpty()
+      return item == null || item.isEmpty() || !item.hasTag('c:tools')
     })
 
     // Small chance for a stick

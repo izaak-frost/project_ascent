@@ -1,5 +1,5 @@
 {
-	autofocus_id: "653663A396271494"
+	autofocus_id: "0CB4B91324344C3D"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "getting_started"
@@ -16,15 +16,15 @@
 	quests: [
 		{
 			disable_recipe_mod: false
-			icon_scale: 2.0d
 			id: "653663A396271494"
 			progression_mode: "linear"
+			size: 2.0d
 			tasks: [{
 				id: "3054DD7DC75DB518"
 				type: "checkmark"
 			}]
 			x: -11.5d
-			y: -7.0d
+			y: -13.5d
 		}
 		{
 			dependencies: [
@@ -43,38 +43,41 @@
 				type: "item"
 			}]
 			x: -11.5d
-			y: -2.0d
+			y: -10.5d
 		}
 		{
 			id: "01ACE1FDE97F8F8D"
+			shape: "hexagon"
 			tasks: [{
 				count: 4L
 				id: "036C36A2EDC203B8"
 				item: { count: 1, id: "ascent:flint_shard" }
 				type: "item"
 			}]
-			x: -15.0d
-			y: -3.0d
+			x: -14.5d
+			y: -11.5d
 		}
 		{
 			id: "360A0B33E7E72385"
+			shape: "hexagon"
 			tasks: [{
 				id: "08D51FA66D866066"
 				item: { count: 1, id: "minecraft:stick" }
 				type: "item"
 			}]
-			x: -15.0d
-			y: -1.0d
+			x: -14.5d
+			y: -9.5d
 		}
 		{
 			id: "011CEA898076D8FD"
+			shape: "hexagon"
 			tasks: [{
 				id: "2698711860BDCD0D"
 				item: { count: 1, id: "ascent:plant_fibre" }
 				type: "item"
 			}]
-			x: -15.5d
-			y: -2.0d
+			x: -15.0d
+			y: -10.5d
 		}
 		{
 			dependencies: [
@@ -101,8 +104,8 @@
 					type: "item"
 				}
 			]
-			x: -13.5d
-			y: -2.0d
+			x: -13.0d
+			y: -10.5d
 		}
 		{
 			dependencies: ["62823AE0EE24C52C"]
@@ -117,29 +120,36 @@
 				item: { count: 1, id: "ascent:flint_pickaxe" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: -2.0d
+			x: -10.0d
+			y: -10.5d
 		}
 		{
 			dependencies: ["5F5AE0567BAD2D48"]
 			id: "6D8C8D48D0F51FE7"
-			rewards: [{
-				count: 2
-				id: "157452677C44AAD5"
-				item: {
-					count: 1
-					id: "minecraft:cobblestone"
+			rewards: [
+				{
+					count: 8
+					id: "5E7657A072B340CB"
+					item: {
+						count: 1
+						id: "minecraft:cobblestone"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "11B1B084580767CC"
+					type: "xp"
+					xp: 100
+				}
+			]
 			tasks: [{
 				count: 4L
 				id: "36A38693FD94A461"
 				item: { count: 1, id: "ascent:stone_chunk" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: -2.0d
+			x: -8.5d
+			y: -10.5d
 		}
 		{
 			dependencies: ["6D8C8D48D0F51FE7"]
@@ -161,11 +171,11 @@
 				item: { count: 1, id: "allthecompressed:cobblestone_1x" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -2.0d
+			x: -8.5d
+			y: -9.0d
 		}
 		{
-			dependencies: ["5F5AE0567BAD2D48"]
+			dependencies: ["7CEF718A8053CA9D"]
 			icon: {
 				id: "productivemetalworks:black_foundry_controller"
 			}
@@ -237,8 +247,8 @@
 					type: "item"
 				}
 			]
-			x: -9.0d
-			y: 0.0d
+			x: -7.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["74CFCB1DFBFFFF65"]
@@ -269,11 +279,27 @@
 					type: "item"
 				}
 			]
-			x: -9.0d
-			y: 1.5d
+			x: -7.0d
+			y: -6.0d
 		}
 		{
+			dependencies: ["5CC0C7FAF71FB9FD"]
 			id: "56AF40AA3B47545A"
+			rewards: [
+				{
+					id: "1057701C19CC444F"
+					item: {
+						count: 1
+						id: "sgearmetalworks:tool_rod_cast"
+					}
+					type: "item"
+				}
+				{
+					id: "1B6853E181B8D54B"
+					type: "xp"
+					xp: 100
+				}
+			]
 			tasks: [
 				{
 					id: "6C31C3C06B7D8C8D"
@@ -291,8 +317,92 @@
 					type: "item"
 				}
 			]
-			x: -9.0d
-			y: 3.0d
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6D8C8D48D0F51FE7"]
+			id: "7D6B389ECF97DDE6"
+			rewards: [{
+				id: "0DBCA51B565CB297"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "15C868D8E1480D1F"
+					item: { count: 1, id: "silentgear:crude_knife" }
+					type: "item"
+				}
+				{
+					id: "12D2DFF7CCB9106A"
+					item: { count: 1, id: "silentgear:stone_anvil" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "3F591D455C2C13F6"
+					item: { count: 1, id: "silentgear:template_board" }
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["7D6B389ECF97DDE6"]
+			id: "7CEF718A8053CA9D"
+			rewards: [
+				{
+					count: 8
+					id: "0C42D4CA32BEF574"
+					item: {
+						count: 1
+						id: "minecraft:cobblestone"
+					}
+					type: "item"
+				}
+				{
+					id: "3A8C150107DCAC2A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "182FEF1764B7091E"
+					item: { count: 1, id: "silentgear:pickaxe_template" }
+					type: "item"
+				}
+				{
+					id: "68EC5F1315880093"
+					item: { count: 1, id: "silentgear:axe_template" }
+					type: "item"
+				}
+				{
+					id: "009530E0DF513B18"
+					item: { count: 1, id: "silentgear:sword_template" }
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["0CB4B91324344C3D"]
+			id: "4988F248546FD4B7"
+			rewards: [{
+				id: "77AAA5BB93E25CC5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "536D419A28302A81"
+				item: { count: 1, id: "ironfurnaces:upgrade_iron" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -7.5d
 		}
 	]
 }
