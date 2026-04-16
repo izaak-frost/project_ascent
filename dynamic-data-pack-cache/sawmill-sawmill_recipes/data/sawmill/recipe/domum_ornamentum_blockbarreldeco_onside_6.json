@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "quark:azalea_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "quark:azalea_wood"
-    },
-    {
-      "item": "quark:stripped_azalea_log"
-    },
-    {
-      "item": "quark:stripped_azalea_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_onside",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

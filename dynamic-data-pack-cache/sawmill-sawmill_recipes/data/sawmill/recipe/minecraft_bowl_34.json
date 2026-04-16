@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:acacia_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "minecraft:acacia_wood"
+      "item": "silentgear:netherwood_wood"
     },
     {
-      "item": "minecraft:stripped_acacia_log"
+      "item": "silentgear:stripped_netherwood_log"
     },
     {
-      "item": "minecraft:stripped_acacia_wood"
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

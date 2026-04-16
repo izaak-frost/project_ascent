@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "minecraft:birch_planks"
+    "item": "twilightforest:mining_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",
-    "count": 1
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

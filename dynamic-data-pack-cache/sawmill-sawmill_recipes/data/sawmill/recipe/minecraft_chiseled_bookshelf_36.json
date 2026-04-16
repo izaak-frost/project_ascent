@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "twilightforest:canopy_wood"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_log"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {
     "id": "minecraft:chiseled_bookshelf",
     "count": 1
   },
-  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

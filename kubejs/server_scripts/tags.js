@@ -20,3 +20,8 @@ ServerEvents.tags('block', event => {
     'minecraft:calcite'
   ])
 })
+
+ServerEvents.tags('item', event => {
+  event.add('minecraft:axes', 'ascent:flint_hatchet')
+  event.add('minecraft:pickaxe', 'ascent:flint_pickaxe')
+})

@@ -30,7 +30,7 @@
 			}
 			"ftbultimine:config": {
 				enabled: true
-				x: 2
+				x: 1
 				y: 2
 			}
 			"ftblibrary:toggle/gamemode": {
@@ -40,7 +40,7 @@
 			}
 			"ftbchunks:claim_chunks": {
 				enabled: true
-				x: 1
+				x: 2
 				y: 2
 			}
 			"ftblibrary:config": {
@@ -105,6 +105,6 @@
 		# Add the name of the mod that items belong to in the item selection GUI.
 		# Note that several common mods also do this (modnametooltip,WTHIT,EMI...) so this is false by default
 		# Default: false
-		item_modname: false
+		item_modname: true
 	}
 }

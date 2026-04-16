@@ -11,6 +11,8 @@ local/
 mods/
 emojiful/
 esm/
+*.xwmc
+*.outdated
 
 # KubeJS (KEEP THIS)
 !kubejs/

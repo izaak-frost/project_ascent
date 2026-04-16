@@ -2,10 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:twilight_oak_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "twilightforest:twilight_oak_wood"
+      "item": "silentgear:netherwood_wood"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_log"
+      "item": "silentgear:stripped_netherwood_log"
     },
     {
-      "item": "twilightforest:stripped_twilight_oak_wood"
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {

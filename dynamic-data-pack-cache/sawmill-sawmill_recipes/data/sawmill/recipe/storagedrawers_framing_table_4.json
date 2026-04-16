@@ -2,22 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:crimson_stem"
+      "item": "minecraft:mangrove_log"
     },
     {
-      "item": "minecraft:crimson_hyphae"
+      "item": "minecraft:mangrove_wood"
     },
     {
-      "item": "minecraft:stripped_crimson_stem"
+      "item": "minecraft:stripped_mangrove_log"
     },
     {
-      "item": "minecraft:stripped_crimson_hyphae"
+      "item": "minecraft:stripped_mangrove_wood"
     }
   ],
   "result": {
     "id": "storagedrawers:framing_table",
     "count": 1
   },
-  "ingredient_count": 2,
+  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

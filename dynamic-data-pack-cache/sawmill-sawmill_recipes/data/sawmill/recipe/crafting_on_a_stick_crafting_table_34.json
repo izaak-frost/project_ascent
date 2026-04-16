@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "silentgear:netherwood_wood"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_log"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {
     "id": "crafting_on_a_stick:crafting_table",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "quark:blossom_log"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "quark:blossom_wood"
+      "item": "twilightforest:time_wood"
     },
     {
-      "item": "quark:stripped_blossom_log"
+      "item": "twilightforest:stripped_time_log"
     },
     {
-      "item": "quark:stripped_blossom_wood"
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {

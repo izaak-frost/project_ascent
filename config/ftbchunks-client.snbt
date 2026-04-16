@@ -8,7 +8,7 @@
 	advanced: {
 		# Enables debug info
 		# Default: false
-		debug_info: false
+		debug_info: true
 		
 		# Advanced option. Change how often the minimap will refresh icons
 		# Default: 500
@@ -138,18 +138,18 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:cow": true
-			"minecraft:glow_squid": true
-			"minecraft:pig": true
-			"minecraft:squid": true
 			"minecraft:cod": false
-			"minecraft:wolf": true
-			"minecraft:sheep": true
-			"minecraft:turtle": true
+			"minecraft:squid": true
 			"minecraft:axolotl": true
-			"minecraft:bat": true
+			"minecraft:wolf": true
+			"minecraft:cow": true
 			"minecraft:chicken": true
+			"minecraft:bat": true
+			"minecraft:sheep": true
 			"minecraft:polar_bear": true
+			"minecraft:pig": true
+			"minecraft:turtle": true
+			"minecraft:glow_squid": true
 			"minecraft:salmon": false
 		}
 		

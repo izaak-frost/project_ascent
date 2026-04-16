@@ -1,0 +1,55 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tooling"
+	group: "01A722CCF4E38967"
+	id: "2A515D4D55423E00"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["62823AE0EE24C52C"]
+			id: "3594CC2744A3B0E7"
+			tasks: [{
+				id: "74B79511495DE4BE"
+				item: { count: 1, id: "ascent:flint_hatchet" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3594CC2744A3B0E7"]
+			id: "338BC4CB463F7945"
+			tasks: [{
+				id: "5CE8ED08D6A64189"
+				item: { count: 1, id: "minecraft:stone_axe" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["338BC4CB463F7945"]
+			id: "2E12399730B706E3"
+			tasks: [{
+				id: "18D7983372080640"
+				item: { count: 1, id: "minecraft:iron_axe" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2E12399730B706E3"]
+			id: "3EF95CFE6BFF23F2"
+			tasks: [{
+				id: "530F4F006EE78162"
+				item: { count: 1, id: "minecraft:diamond_axe" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -3.0d
+		}
+	]
+}

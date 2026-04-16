@@ -1,7 +1,6 @@
 // ==============================
 // Custom primitive tool tier
 // ==============================
-// Note: custom tiers are startup-only and require a full restart.
 ItemEvents.toolTierRegistry(event => {
   event.add('primitive', tier => {
     // How many uses the tool gets before breaking
@@ -14,7 +13,7 @@ ItemEvents.toolTierRegistry(event => {
     tier.attackDamageBonus = 1
 
     // How enchantable the tool is
-    tier.enchantmentValue = 14
+    tier.enchantmentValue = 0
   })
 })
 
@@ -23,7 +22,6 @@ ItemEvents.toolTierRegistry(event => {
 // Custom primitive items
 // ==============================
 StartupEvents.registry('item', event => {
-  // Set namespace for everything in this file
   event.create('ascent:stone_chunk')
     .displayName('Stone Chunk')
     .texture('ascent:item/stone_chunk')
@@ -32,8 +30,17 @@ StartupEvents.registry('item', event => {
     .displayName('Flint Shard')
     .texture('ascent:item/flint_shard')
 
+  event.create('ascent:plant_fibre')
+    .displayName('Plant Fibre')
+    .texture('ascent:item/plant_fibre')
+
   event.create('ascent:flint_pickaxe', 'pickaxe')
     .displayName('Flint Pickaxe')
     .tier('primitive')
     .texture('ascent:item/flint_pickaxe')
+
+  event.create('ascent:flint_hatchet', 'axe')
+    .displayName('Flint Hatchet')
+    .tier('primitive')
+    .texture('ascent:item/flint_hatchet')
 })

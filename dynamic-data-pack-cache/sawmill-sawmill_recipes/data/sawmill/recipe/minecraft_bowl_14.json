@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:birch_log"
+      "item": "quark:blossom_log"
     },
     {
-      "item": "minecraft:birch_wood"
+      "item": "quark:blossom_wood"
     },
     {
-      "item": "minecraft:stripped_birch_log"
+      "item": "quark:stripped_blossom_log"
     },
     {
-      "item": "minecraft:stripped_birch_wood"
+      "item": "quark:stripped_blossom_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

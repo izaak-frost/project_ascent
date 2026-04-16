@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:spruce_log"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "minecraft:spruce_wood"
+      "item": "deeperdarker:echo_wood"
     },
     {
-      "item": "minecraft:stripped_spruce_log"
+      "item": "deeperdarker:stripped_echo_log"
     },
     {
-      "item": "minecraft:stripped_spruce_wood"
+      "item": "deeperdarker:stripped_echo_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

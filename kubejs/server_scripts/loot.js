@@ -10,16 +10,28 @@
 //   primitive tools
 // ============================================================
 
+// Leaves have a chance to drop sticks and plant fibre
 LootJS.modifiers(event => {
-  // Leaves can drop sticks
   event
     .addBlockModifier('#minecraft:leaves')
-    .randomChance(0.30)
+
+    // Only when the player is breaking leaves with empty main hand
+    .matchPlayerCustom(player => {
+      const item = player.getMainHandItem()
+      return item == null || item.isEmpty()
+    })
+
+    // Small chance for a stick
     .addLoot('minecraft:stick')
+    .randomChance(0.20)
+
+    // Small chance for plant fibre
+    .addLoot('ascent:plant_fibre')
+    .randomChance(0.35)
 })
 
+// Primitive stones drop stone chunks with primitive tools
 LootJS.modifiers(event => {
-  // Primitive stones drop stone chunks with primitive tools
   event
     .addBlockModifier('#ascent:primitive_stones')
     .matchTool([

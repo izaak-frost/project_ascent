@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "twilightforest:canopy_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "twilightforest:canopy_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "twilightforest:stripped_canopy_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "twilightforest:stripped_canopy_wood"
     }
   ],
   "result": {

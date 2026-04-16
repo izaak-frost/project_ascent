@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_wood"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_log"
+    },
+    {
+      "item": "twilightforest:stripped_sorting_wood"
+    }
+  ],
   "result": {
     "id": "cookingforblockheads:fruit_basket",
     "count": 2

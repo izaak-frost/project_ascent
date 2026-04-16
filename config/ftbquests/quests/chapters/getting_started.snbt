@@ -1,0 +1,298 @@
+{
+	autofocus_id: "653663A396271494"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "minecraft:item/copper_ingot"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "43847D98438BBCEC"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_recipe_mod: false
+			icon_scale: 2.0d
+			id: "653663A396271494"
+			progression_mode: "linear"
+			tasks: [{
+				id: "3054DD7DC75DB518"
+				type: "checkmark"
+			}]
+			x: -11.5d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"653663A396271494"
+				"629C2B4E1DD50330"
+			]
+			id: "62823AE0EE24C52C"
+			rewards: [{
+				id: "7B3D8C2AC8BD625D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "59365453E5B9BFE9"
+				item: { count: 1, id: "ascent:flint_hatchet" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -2.0d
+		}
+		{
+			id: "01ACE1FDE97F8F8D"
+			tasks: [{
+				count: 4L
+				id: "036C36A2EDC203B8"
+				item: { count: 1, id: "ascent:flint_shard" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: -3.0d
+		}
+		{
+			id: "360A0B33E7E72385"
+			tasks: [{
+				id: "08D51FA66D866066"
+				item: { count: 1, id: "minecraft:stick" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: -1.0d
+		}
+		{
+			id: "011CEA898076D8FD"
+			tasks: [{
+				id: "2698711860BDCD0D"
+				item: { count: 1, id: "ascent:plant_fibre" }
+				type: "item"
+			}]
+			x: -15.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"01ACE1FDE97F8F8D"
+				"011CEA898076D8FD"
+				"360A0B33E7E72385"
+			]
+			id: "629C2B4E1DD50330"
+			tasks: [
+				{
+					id: "73D890CD1D314CD7"
+					item: { count: 1, id: "minecraft:flint" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "449D7D9F3F07EBF7"
+					item: { count: 1, id: "ascent:plant_fibre" }
+					type: "item"
+				}
+				{
+					id: "73E06CBC3BA28609"
+					item: { count: 1, id: "minecraft:stick" }
+					type: "item"
+				}
+			]
+			x: -13.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["62823AE0EE24C52C"]
+			id: "5F5AE0567BAD2D48"
+			rewards: [{
+				id: "439352A30E5DF4D2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6AACF045BF359B07"
+				item: { count: 1, id: "ascent:flint_pickaxe" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5F5AE0567BAD2D48"]
+			id: "6D8C8D48D0F51FE7"
+			rewards: [{
+				count: 2
+				id: "157452677C44AAD5"
+				item: {
+					count: 1
+					id: "minecraft:cobblestone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "36A38693FD94A461"
+				item: { count: 1, id: "ascent:stone_chunk" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6D8C8D48D0F51FE7"]
+			icon: {
+				id: "minecraft:furnace"
+			}
+			id: "0CB4B91324344C3D"
+			rewards: [{
+				count: 7
+				id: "64FBC1E462446CC1"
+				item: {
+					count: 1
+					id: "allthecompressed:cobblestone_1x"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "25DF3EE869F40526"
+				item: { count: 1, id: "allthecompressed:cobblestone_1x" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5F5AE0567BAD2D48"]
+			icon: {
+				id: "productivemetalworks:black_foundry_controller"
+			}
+			id: "74CFCB1DFBFFFF65"
+			rewards: [
+				{
+					id: "53479F9DCCCC0577"
+					item: {
+						count: 1
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "355F5AE137741C53"
+					item: {
+						count: 1
+						id: "minecraft:iron_ore"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "58BA09BA71265F87"
+					item: {
+						count: 1
+						id: "minecraft:coal_ore"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2FFB8C600DD9409C"
+					item: { count: 1, id: "productivemetalworks:black_foundry_controller" }
+					type: "item"
+				}
+				{
+					count: 21L
+					id: "082245E2EDB5A045"
+					item: { count: 1, id: "productivemetalworks:black_fire_bricks" }
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "3F77454D4C53ABDC"
+					item: { count: 1, id: "productivemetalworks:liquid_heating_coil" }
+					type: "item"
+				}
+				{
+					id: "504C4ACF8E013B4B"
+					item: { count: 1, id: "productivemetalworks:foundry_tap" }
+					type: "item"
+				}
+				{
+					id: "56463064142CFF4E"
+					item: { count: 1, id: "productivemetalworks:black_foundry_tank" }
+					type: "item"
+				}
+				{
+					id: "705D02F6C187A46A"
+					item: { count: 1, id: "productivemetalworks:black_foundry_drain" }
+					type: "item"
+				}
+				{
+					id: "04CC3EC355266BC0"
+					item: { count: 1, id: "productivemetalworks:casting_table" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["74CFCB1DFBFFFF65"]
+			id: "5CC0C7FAF71FB9FD"
+			rewards: [{
+				count: 4
+				id: "5C235E8D0F4AF098"
+				item: {
+					count: 1
+					id: "minecraft:raw_iron"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "09E2E69E0FF2B140"
+					item: { count: 1, id: "silentgear:pickaxe_head" }
+					type: "item"
+				}
+				{
+					id: "0B9FEFE62C8BEC0F"
+					item: { count: 1, id: "silentgear:sword_blade" }
+					type: "item"
+				}
+				{
+					id: "5E401A51F2A73F9C"
+					item: { count: 1, id: "silentgear:axe_head" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			id: "56AF40AA3B47545A"
+			tasks: [
+				{
+					id: "6C31C3C06B7D8C8D"
+					item: { count: 1, id: "sgearmetalworks:pickaxe_cast" }
+					type: "item"
+				}
+				{
+					id: "31FD2484799B16EA"
+					item: { count: 1, id: "sgearmetalworks:sword_cast" }
+					type: "item"
+				}
+				{
+					id: "201FA134D459AF4A"
+					item: { count: 1, id: "sgearmetalworks:axe_cast" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 3.0d
+		}
+	]
+}

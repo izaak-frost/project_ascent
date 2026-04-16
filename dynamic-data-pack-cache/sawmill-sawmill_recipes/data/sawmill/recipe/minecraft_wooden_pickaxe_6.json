@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:crimson_stem"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "minecraft:crimson_hyphae"
-    },
-    {
-      "item": "minecraft:stripped_crimson_stem"
-    },
-    {
-      "item": "minecraft:stripped_crimson_hyphae"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {

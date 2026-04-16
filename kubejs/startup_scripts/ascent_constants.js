@@ -53,28 +53,4 @@ global.ASCENT = {
 
     return `${namespace}:${woodType}_planks`
   },
-
-  // ----------------------------------------------------------
-  // Check whether the player is holding a valid axe.
-  // ----------------------------------------------------------
-  isValidAxe(player) {
-    if (!player) return false
-
-    const item = player.mainHandItem
-    if (!item || item.isEmpty()) return false
-
-    return `${item.id}`.endsWith('_axe')
-  },
-
-  // ----------------------------------------------------------
-  // Standard helper message.
-  // ----------------------------------------------------------
-  tellNeedAxe(player) {
-    if (!player) return
-
-    player.displayClientMessage(
-      Component.string('You need an axe to break logs.'),
-      true
-    )
-  }
 }

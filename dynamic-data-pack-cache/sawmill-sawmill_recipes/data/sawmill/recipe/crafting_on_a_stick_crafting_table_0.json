@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "tag": "c:logs/archwood"
-  },
+  "ingredient": [
+    {
+      "item": "twilightforest:mangrove_log"
+    },
+    {
+      "item": "twilightforest:mangrove_wood"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_wood"
+    }
+  ],
   "result": {
     "id": "crafting_on_a_stick:crafting_table",
     "count": 1

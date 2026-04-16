@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "quark:azalea_log"
+      "item": "twilightforest:mining_log"
     },
     {
-      "item": "quark:azalea_wood"
+      "item": "twilightforest:mining_wood"
     },
     {
-      "item": "quark:stripped_azalea_log"
+      "item": "twilightforest:stripped_mining_log"
     },
     {
-      "item": "quark:stripped_azalea_wood"
+      "item": "twilightforest:stripped_mining_wood"
     }
   ],
   "result": {

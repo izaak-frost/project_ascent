@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "deeperdarker:echo_planks"
+    "item": "minecraft:spruce_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

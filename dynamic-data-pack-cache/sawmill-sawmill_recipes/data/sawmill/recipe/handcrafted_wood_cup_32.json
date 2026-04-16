@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "allthemodium:demonic_log"
+      "item": "silentgear:netherwood_log"
     },
     {
-      "item": "allthemodium:stripped_demonic_log"
+      "item": "silentgear:netherwood_wood"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_log"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_wood"
     }
   ],
   "result": {

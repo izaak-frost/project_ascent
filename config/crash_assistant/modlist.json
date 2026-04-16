@@ -373,6 +373,14 @@
     "curseForgeHash": 1729023195,
     "modrinthHash": "dcffc21e62a82c5d870ab13dc5c92687430d65b5"
   },
+  "configured-neoforge-1.21.1-2.6.3.jar": {
+    "jarName": "configured-neoforge-1.21.1-2.6.3.jar",
+    "modId": "configured",
+    "name": "Configured",
+    "version": "2.6.3",
+    "curseForgeHash": 1001771497,
+    "modrinthHash": "e977d86eec39d49295df4e2c4265d6710ae065e8"
+  },
   "connectedglass-1.1.14-neoforge-mc1.21.jar": {
     "jarName": "connectedglass-1.1.14-neoforge-mc1.21.jar",
     "modId": "connectedglass",
@@ -1130,13 +1138,13 @@
     "curseForgeHash": 2672915247,
     "modrinthHash": "6548ec47aa6b0498c3018cde40d9d0a203b67446"
   },
-  "leaderboards-1.21.1-NeoForge-1.0.0.jar": {
-    "jarName": "leaderboards-1.21.1-NeoForge-1.0.0.jar",
+  "leaderboards-1.21.1-NeoForge-2.0.0.jar": {
+    "jarName": "leaderboards-1.21.1-NeoForge-2.0.0.jar",
     "modId": "leaderboards",
     "name": "Leaderboards",
-    "version": "1.0.0",
-    "curseForgeHash": 670212192,
-    "modrinthHash": "8f9099957263bc0e19723881840949d487afa633"
+    "version": "2.0.0",
+    "curseForgeHash": 328032260,
+    "modrinthHash": "9f7d4c02aa5d90d7120556e758a9be6bf932e8f4"
   },
   "lithium-neoforge-0.15.3+mc1.21.1.jar": {
     "jarName": "lithium-neoforge-0.15.3+mc1.21.1.jar",

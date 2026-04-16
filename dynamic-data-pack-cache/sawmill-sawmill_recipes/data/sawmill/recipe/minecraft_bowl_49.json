@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "twilightforest:canopy_planks"
+    "item": "minecraft:crimson_planks"
   },
   "result": {
     "id": "minecraft:bowl",

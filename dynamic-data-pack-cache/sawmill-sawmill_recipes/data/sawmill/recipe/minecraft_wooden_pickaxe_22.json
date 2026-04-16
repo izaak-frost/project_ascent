@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:jungle_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "minecraft:jungle_wood"
-    },
-    {
-      "item": "minecraft:stripped_jungle_log"
-    },
-    {
-      "item": "minecraft:stripped_jungle_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

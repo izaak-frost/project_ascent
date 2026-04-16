@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "quark:blossom_log"
-    },
-    {
-      "item": "quark:blossom_wood"
-    },
-    {
-      "item": "quark:stripped_blossom_log"
-    },
-    {
-      "item": "quark:stripped_blossom_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "minecraft:chiseled_bookshelf",
     "count": 1
