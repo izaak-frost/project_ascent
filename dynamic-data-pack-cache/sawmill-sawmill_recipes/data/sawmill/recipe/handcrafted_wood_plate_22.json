@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:warped_stem"
+      "item": "deeperdarker:blooming_stem"
     },
     {
-      "item": "minecraft:warped_hyphae"
-    },
-    {
-      "item": "minecraft:stripped_warped_stem"
-    },
-    {
-      "item": "minecraft:stripped_warped_hyphae"
+      "item": "deeperdarker:stripped_blooming_stem"
     }
   ],
   "result": {

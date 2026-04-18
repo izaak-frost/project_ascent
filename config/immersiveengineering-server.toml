@@ -298,7 +298,7 @@
 		#A modifier to apply to the time of every metal press recipe
 		# Default: 1.0
 		# Range: 0.001 ~ 1000.0
-		timeModifier = 1.0
+		timeModifier = 0.5
 
 	[machines.crusher]
 		#A modifier to apply to the energy costs of every crusher recipe

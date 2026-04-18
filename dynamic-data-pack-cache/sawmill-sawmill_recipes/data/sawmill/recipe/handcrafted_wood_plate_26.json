@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:sorting_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "twilightforest:sorting_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "twilightforest:stripped_sorting_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "twilightforest:stripped_sorting_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

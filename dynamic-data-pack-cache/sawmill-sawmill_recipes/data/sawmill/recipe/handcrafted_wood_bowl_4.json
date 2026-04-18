@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:echo_log"
+      "item": "quark:azalea_log"
     },
     {
-      "item": "deeperdarker:echo_wood"
+      "item": "quark:azalea_wood"
     },
     {
-      "item": "deeperdarker:stripped_echo_log"
+      "item": "quark:stripped_azalea_log"
     },
     {
-      "item": "deeperdarker:stripped_echo_wood"
+      "item": "quark:stripped_azalea_wood"
     }
   ],
   "result": {

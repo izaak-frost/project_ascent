@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "silentgear:netherwood_planks"
+    "item": "twilightforest:mining_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",

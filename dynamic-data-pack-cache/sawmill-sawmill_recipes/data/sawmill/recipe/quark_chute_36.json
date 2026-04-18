@@ -2,22 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:cherry_log"
+      "item": "quark:ancient_log"
     },
     {
-      "item": "minecraft:cherry_wood"
+      "item": "quark:ancient_wood"
     },
     {
-      "item": "minecraft:stripped_cherry_log"
+      "item": "quark:stripped_ancient_log"
     },
     {
-      "item": "minecraft:stripped_cherry_wood"
+      "item": "quark:stripped_ancient_wood"
     }
   ],
   "result": {
     "id": "quark:chute",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

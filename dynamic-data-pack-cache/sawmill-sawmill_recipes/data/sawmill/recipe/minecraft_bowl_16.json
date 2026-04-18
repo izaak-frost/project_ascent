@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:spruce_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "minecraft:spruce_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "minecraft:stripped_spruce_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "minecraft:stripped_spruce_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 3
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

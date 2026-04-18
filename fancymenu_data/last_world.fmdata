@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = G:/Minecraft/Instances/Ascent Expert Mode/saves/ascension_test
+  is_server = true
+  world = ascent.enderman.cloud:25565
 }
 

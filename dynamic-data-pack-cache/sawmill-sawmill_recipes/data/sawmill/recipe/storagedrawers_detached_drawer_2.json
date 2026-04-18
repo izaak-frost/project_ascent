@@ -2,16 +2,22 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "minecraft:crimson_stem"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "minecraft:crimson_hyphae"
+    },
+    {
+      "item": "minecraft:stripped_crimson_stem"
+    },
+    {
+      "item": "minecraft:stripped_crimson_hyphae"
     }
   ],
   "result": {
     "id": "storagedrawers:detached_drawer",
     "count": 1
   },
-  "ingredient_count": 5,
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

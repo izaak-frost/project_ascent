@@ -2,21 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:sorting_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "twilightforest:sorting_wood"
-    },
-    {
-      "item": "twilightforest:stripped_sorting_log"
-    },
-    {
-      "item": "twilightforest:stripped_sorting_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "domum_ornamentum:blockbarreldeco_onside",
     "count": 1
   },
+  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

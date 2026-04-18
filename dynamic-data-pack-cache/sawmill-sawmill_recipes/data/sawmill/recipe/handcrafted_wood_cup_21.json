@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "allthemodium:soul_planks"
+    "item": "minecraft:jungle_planks"
   },
   "result": {
     "id": "handcrafted:wood_cup",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

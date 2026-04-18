@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "quark:blossom_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "quark:blossom_wood"
-    },
-    {
-      "item": "quark:stripped_blossom_log"
-    },
-    {
-      "item": "quark:stripped_blossom_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

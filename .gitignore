@@ -5,7 +5,6 @@ saves/
 screenshots/
 shaderpacks/
 resourcepacks/
-local/
 
 # Mods
 mods/
@@ -15,9 +14,19 @@ esm/
 *.outdated
 *_c.*
 *_a.*
-
-# KubeJS (KEEP THIS)
-!kubejs/
+moonlight-global-datapacks/
+schematics/
+journeymap
+downloads/
+defaultconfigs/
+datapacks/
+data/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+fancymenu_data/
+local/
+xaero/
+XaeroWaypoints_*/
 
 # Instance launchers
 instance.cfg
@@ -36,4 +45,4 @@ usernamecache.json
 
 # Personal / launcher files
 minecraftinstance.json
-options.txt
+*.dat

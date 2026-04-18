@@ -2,10 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "deeperdarker:blooming_stem"
+      "item": "quark:blossom_log"
     },
     {
-      "item": "deeperdarker:stripped_blooming_stem"
+      "item": "quark:blossom_wood"
+    },
+    {
+      "item": "quark:stripped_blossom_log"
+    },
+    {
+      "item": "quark:stripped_blossom_wood"
     }
   ],
   "result": {

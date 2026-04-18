@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "quark:azalea_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "quark:azalea_wood"
+    },
+    {
+      "item": "quark:stripped_azalea_log"
+    },
+    {
+      "item": "quark:stripped_azalea_wood"
     }
   ],
   "result": {
     "id": "quark:chute",
     "count": 1
   },
-  "ingredient_count": 2,
   "type": "sawmill:woodcutting"
 }

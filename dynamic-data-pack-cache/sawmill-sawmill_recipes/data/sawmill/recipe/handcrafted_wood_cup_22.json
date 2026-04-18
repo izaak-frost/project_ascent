@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:jungle_log"
+      "item": "twilightforest:sorting_log"
     },
     {
-      "item": "minecraft:jungle_wood"
+      "item": "twilightforest:sorting_wood"
     },
     {
-      "item": "minecraft:stripped_jungle_log"
+      "item": "twilightforest:stripped_sorting_log"
     },
     {
-      "item": "minecraft:stripped_jungle_wood"
+      "item": "twilightforest:stripped_sorting_wood"
     }
   ],
   "result": {
     "id": "handcrafted:wood_cup",
-    "count": 4
+    "count": 8
   },
   "type": "sawmill:woodcutting"
 }

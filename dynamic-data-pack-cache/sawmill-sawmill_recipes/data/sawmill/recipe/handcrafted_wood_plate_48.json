@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:dark_oak_log"
+      "item": "twilightforest:time_log"
     },
     {
-      "item": "minecraft:dark_oak_wood"
+      "item": "twilightforest:time_wood"
     },
     {
-      "item": "minecraft:stripped_dark_oak_log"
+      "item": "twilightforest:stripped_time_log"
     },
     {
-      "item": "minecraft:stripped_dark_oak_wood"
+      "item": "twilightforest:stripped_time_wood"
     }
   ],
   "result": {
     "id": "handcrafted:wood_plate",
-    "count": 4
+    "count": 8
   },
   "type": "sawmill:woodcutting"
 }

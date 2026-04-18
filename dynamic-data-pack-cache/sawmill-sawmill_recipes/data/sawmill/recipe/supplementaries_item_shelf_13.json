@@ -1,11 +1,11 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "quark:azalea_planks"
+    "item": "minecraft:mangrove_planks"
   },
   "result": {
     "id": "supplementaries:item_shelf",
-    "count": 2
+    "count": 1
   },
   "type": "sawmill:woodcutting"
 }

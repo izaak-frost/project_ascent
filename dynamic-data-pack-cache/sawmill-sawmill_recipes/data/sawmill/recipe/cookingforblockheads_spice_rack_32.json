@@ -2,21 +2,15 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "minecraft:bamboo_block"
     },
     {
-      "item": "twilightforest:dark_wood"
-    },
-    {
-      "item": "twilightforest:stripped_dark_log"
-    },
-    {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "minecraft:stripped_bamboo_block"
     }
   ],
   "result": {
     "id": "cookingforblockheads:spice_rack",
-    "count": 4
+    "count": 2
   },
   "type": "sawmill:woodcutting"
 }

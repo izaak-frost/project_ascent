@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "silentgear:netherwood_log"
+      "item": "quark:blossom_log"
     },
     {
-      "item": "silentgear:netherwood_wood"
+      "item": "quark:blossom_wood"
     },
     {
-      "item": "silentgear:stripped_netherwood_log"
+      "item": "quark:stripped_blossom_log"
     },
     {
-      "item": "silentgear:stripped_netherwood_wood"
+      "item": "quark:stripped_blossom_wood"
     }
   ],
   "result": {

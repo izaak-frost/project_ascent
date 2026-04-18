@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:transformation_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "twilightforest:transformation_wood"
-    },
-    {
-      "item": "twilightforest:stripped_transformation_log"
-    },
-    {
-      "item": "twilightforest:stripped_transformation_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {
